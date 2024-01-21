@@ -1,0 +1,22 @@
+[
+{
+    "model": "accounts.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$720000$CaX7lSVwmMx9XV1K5205tA$lYbJkAodq/1oY2xvaOD/XiBSq2xo8Ek1v0vYngLdZzc=",
+        "last_login": "2024-01-21T09:03:42.442Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "madi_gaziz@mail.ru",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2024-01-21T09:03:01.394Z",
+        "profile_pictures": "profile_pics/default.png",
+        "status": "online",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
