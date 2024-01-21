@@ -8,4 +8,4 @@ class Chat(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
 
     def __str__(self) -> str:
-        return f'Chat with ID {self.id} create at {self.created_at}'
+        return f'Chat with ID {self.id} created at {self.created_at}'
